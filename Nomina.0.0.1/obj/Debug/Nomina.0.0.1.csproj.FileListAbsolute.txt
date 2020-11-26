@@ -1,0 +1,48 @@
+C:\Users\hecto\source\repos\Nomina.0.0.1\Nomina.0.0.1\obj\Debug\Nomina.0.0.1.csprojAssemblyReference.cache
+C:\Users\hecto\source\repos\Nomina.0.0.1\Nomina.0.0.1\obj\Debug\Nomina._0._0._1.Properties.Resources.resources
+C:\Users\hecto\source\repos\Nomina.0.0.1\Nomina.0.0.1\obj\Debug\Nomina.0.0.1.csproj.GenerateResource.cache
+C:\Users\hecto\source\repos\Nomina.0.0.1\Nomina.0.0.1\obj\Debug\Nomina.0.0.1.csproj.CoreCompileInputs.cache
+C:\Users\hecto\source\repos\Nomina.0.0.1\Nomina.0.0.1\bin\Debug\Nomina.0.0.1.exe.config
+C:\Users\hecto\source\repos\Nomina.0.0.1\Nomina.0.0.1\bin\Debug\Nomina.0.0.1.exe
+C:\Users\hecto\source\repos\Nomina.0.0.1\Nomina.0.0.1\bin\Debug\Nomina.0.0.1.pdb
+C:\Users\hecto\source\repos\Nomina.0.0.1\Nomina.0.0.1\obj\Debug\Nomina.0.0.1.exe
+C:\Users\hecto\source\repos\Nomina.0.0.1\Nomina.0.0.1\obj\Debug\Nomina.0.0.1.pdb
+C:\Users\hecto\source\repos\Nomina.0.0.1\Nomina.0.0.1\obj\Debug\Nomina._0._0._1.formnomina.resources
+C:\Users\hecto\source\repos\Nomina.0.0.1\Nomina.0.0.1\obj\Debug\Nomina._0._0._1.formliquidar.resources
+C:\Users\hecto\source\repos\Nomina.0.0.1\Nomina.0.0.1\obj\Debug\Nomina._0._0._1.frminicio.resources
+C:\Users\hecto\source\repos\Nomina.0.0.1\Nomina.0.0.1\obj\Debug\Nomina._0._0._1.Presentacion.resources
+C:\Users\hecto\source\repos\Nomina.0.0.1\Nomina.0.0.1\obj\Debug\Nomina._0._0._1.frmmenu.resources
+C:\Users\hecto\source\repos\Nomina.0.0.1\Nomina.0.0.1\obj\Debug\Nomina._0._0._1.frmcompropago.resources
+C:\Users\hecto\source\repos\Nomina.0.0.1\Nomina.0.0.1\obj\Debug\Nomina._0._0._1.Consultas.resources
+C:\Users\hecto\Downloads\Nomina.0.0.1\Nomina.0.0.1\Nomina.0.0.1\bin\Debug\Nomina.0.0.1.exe.config
+C:\Users\hecto\Downloads\Nomina.0.0.1\Nomina.0.0.1\Nomina.0.0.1\bin\Debug\Nomina.0.0.1.exe
+C:\Users\hecto\Downloads\Nomina.0.0.1\Nomina.0.0.1\Nomina.0.0.1\bin\Debug\Nomina.0.0.1.pdb
+C:\Users\hecto\Downloads\Nomina.0.0.1\Nomina.0.0.1\Nomina.0.0.1\obj\Debug\Nomina.0.0.1.csprojAssemblyReference.cache
+C:\Users\hecto\Downloads\Nomina.0.0.1\Nomina.0.0.1\Nomina.0.0.1\obj\Debug\Nomina._0._0._1.frmcompropago.resources
+C:\Users\hecto\Downloads\Nomina.0.0.1\Nomina.0.0.1\Nomina.0.0.1\obj\Debug\Nomina._0._0._1.Consultas.resources
+C:\Users\hecto\Downloads\Nomina.0.0.1\Nomina.0.0.1\Nomina.0.0.1\obj\Debug\Nomina._0._0._1.formliquidar.resources
+C:\Users\hecto\Downloads\Nomina.0.0.1\Nomina.0.0.1\Nomina.0.0.1\obj\Debug\Nomina._0._0._1.frminicio.resources
+C:\Users\hecto\Downloads\Nomina.0.0.1\Nomina.0.0.1\Nomina.0.0.1\obj\Debug\Nomina._0._0._1.formnomina.resources
+C:\Users\hecto\Downloads\Nomina.0.0.1\Nomina.0.0.1\Nomina.0.0.1\obj\Debug\Nomina._0._0._1.frmmenu.resources
+C:\Users\hecto\Downloads\Nomina.0.0.1\Nomina.0.0.1\Nomina.0.0.1\obj\Debug\Nomina._0._0._1.Presentacion.resources
+C:\Users\hecto\Downloads\Nomina.0.0.1\Nomina.0.0.1\Nomina.0.0.1\obj\Debug\Nomina._0._0._1.Properties.Resources.resources
+C:\Users\hecto\Downloads\Nomina.0.0.1\Nomina.0.0.1\Nomina.0.0.1\obj\Debug\Nomina.0.0.1.csproj.GenerateResource.cache
+C:\Users\hecto\Downloads\Nomina.0.0.1\Nomina.0.0.1\Nomina.0.0.1\obj\Debug\Nomina.0.0.1.csproj.CoreCompileInputs.cache
+C:\Users\hecto\Downloads\Nomina.0.0.1\Nomina.0.0.1\Nomina.0.0.1\obj\Debug\Nomina.0.0.1.exe
+C:\Users\hecto\Downloads\Nomina.0.0.1\Nomina.0.0.1\Nomina.0.0.1\obj\Debug\Nomina.0.0.1.pdb
+D:\Nueva carpeta\discoD\TODO\VISUAL STUDIO\Nomina.0.0.1\Nomina.0.0.1\Nomina.0.0.1\bin\Debug\Nomina.0.0.1.exe.config
+D:\Nueva carpeta\discoD\TODO\VISUAL STUDIO\Nomina.0.0.1\Nomina.0.0.1\Nomina.0.0.1\bin\Debug\Nomina.0.0.1.exe
+D:\Nueva carpeta\discoD\TODO\VISUAL STUDIO\Nomina.0.0.1\Nomina.0.0.1\Nomina.0.0.1\bin\Debug\Nomina.0.0.1.pdb
+D:\Nueva carpeta\discoD\TODO\VISUAL STUDIO\Nomina.0.0.1\Nomina.0.0.1\Nomina.0.0.1\obj\Debug\Nomina.0.0.1.csprojAssemblyReference.cache
+D:\Nueva carpeta\discoD\TODO\VISUAL STUDIO\Nomina.0.0.1\Nomina.0.0.1\Nomina.0.0.1\obj\Debug\Nomina._0._0._1.frmcompropago.resources
+D:\Nueva carpeta\discoD\TODO\VISUAL STUDIO\Nomina.0.0.1\Nomina.0.0.1\Nomina.0.0.1\obj\Debug\Nomina._0._0._1.Consultas.resources
+D:\Nueva carpeta\discoD\TODO\VISUAL STUDIO\Nomina.0.0.1\Nomina.0.0.1\Nomina.0.0.1\obj\Debug\Nomina._0._0._1.formliquidar.resources
+D:\Nueva carpeta\discoD\TODO\VISUAL STUDIO\Nomina.0.0.1\Nomina.0.0.1\Nomina.0.0.1\obj\Debug\Nomina._0._0._1.frminicio.resources
+D:\Nueva carpeta\discoD\TODO\VISUAL STUDIO\Nomina.0.0.1\Nomina.0.0.1\Nomina.0.0.1\obj\Debug\Nomina._0._0._1.formnomina.resources
+D:\Nueva carpeta\discoD\TODO\VISUAL STUDIO\Nomina.0.0.1\Nomina.0.0.1\Nomina.0.0.1\obj\Debug\Nomina._0._0._1.frmmenu.resources
+D:\Nueva carpeta\discoD\TODO\VISUAL STUDIO\Nomina.0.0.1\Nomina.0.0.1\Nomina.0.0.1\obj\Debug\Nomina._0._0._1.Presentacion.resources
+D:\Nueva carpeta\discoD\TODO\VISUAL STUDIO\Nomina.0.0.1\Nomina.0.0.1\Nomina.0.0.1\obj\Debug\Nomina._0._0._1.Properties.Resources.resources
+D:\Nueva carpeta\discoD\TODO\VISUAL STUDIO\Nomina.0.0.1\Nomina.0.0.1\Nomina.0.0.1\obj\Debug\Nomina.0.0.1.csproj.GenerateResource.cache
+D:\Nueva carpeta\discoD\TODO\VISUAL STUDIO\Nomina.0.0.1\Nomina.0.0.1\Nomina.0.0.1\obj\Debug\Nomina.0.0.1.csproj.CoreCompileInputs.cache
+D:\Nueva carpeta\discoD\TODO\VISUAL STUDIO\Nomina.0.0.1\Nomina.0.0.1\Nomina.0.0.1\obj\Debug\Nomina.0.0.1.exe
+D:\Nueva carpeta\discoD\TODO\VISUAL STUDIO\Nomina.0.0.1\Nomina.0.0.1\Nomina.0.0.1\obj\Debug\Nomina.0.0.1.pdb
